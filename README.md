@@ -13,12 +13,12 @@
 
 
 ## Resultados de evaluación de optimización según GTMetrix:
-* Resultado anterior a la aplicación de plugins optimización:
+#### Resultado anterior a la aplicación de plugins optimización:
 
 ![](images/GTmetrix1.png)
 
-* Resultado posterior a la aplicación de plugins optimización:
-* El resultado de la velocidad de la página sube de 83% a 88% mientras que el puntaje YSlow aumentó de 79% a 86%.
+#### Resultado posterior a la aplicación de plugins optimización:
+ El resultado de la velocidad de la página sube de 83% a 88% mientras que el puntaje YSlow aumentó de 79% a 86%.
 
 ![](images/GTmetrix3.png)
 
